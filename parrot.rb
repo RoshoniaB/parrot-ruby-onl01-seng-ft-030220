@@ -1,3 +1,3 @@
-def parrot=pretty bird!
+def parrot
   puts "Squawk!"
 end  
