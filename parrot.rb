@@ -1,3 +1,3 @@
-def Phrase (parrot="Squawk!")
+def parrot(Phrase="Squawk!")
   puts Phrase
 end  
